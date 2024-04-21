@@ -6,11 +6,10 @@ namespace Tests\Feature;
 
 use App\Models\DB1;
 use App\Models\DB2;
-use Database\Factories\DB1Factory;
 use Illuminate\Foundation\Testing\DatabaseTransactions;
 use Tests\TestCase;
 
-class ExampleTest extends TestCase
+class Example2Test extends TestCase
 {
     use DatabaseTransactions;
 
